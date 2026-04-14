@@ -52,7 +52,6 @@ export default function Splash() {
         </div>
 
         {/* Corner decorations */}
-        <div style={{ position: 'absolute', bottom: '100px', right: '28px', width: '24px', height: '24px', background: 'var(--slab-orange)' }} />
         <div style={{ position: 'absolute', bottom: '130px', right: '60px', width: '16px', height: '16px', background: 'var(--slab-blue)' }} />
       </div>
     </MobileFrame>
